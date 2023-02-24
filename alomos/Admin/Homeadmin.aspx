@@ -12,8 +12,8 @@
 							<div class="container">
 								<div class="agileits-banner-info">
 								
-									<h3>ADMIN </h3>
-									 <p>SP FURNITURE</p>
+									<h3>ADMIN DASHBOARD </h3>
+									 <p>FURNITURE SHOPPING</p>
 									
 								</div>	
 							</div>
@@ -24,8 +24,8 @@
 						<div class="container">
 								<div class="agileits-banner-info">
 								 
-									<h3> ADMIN</h3>
-									 <p> SP FURNITURE</p>
+									<h3>ADMIN DASHBOARD </h3>
+									 <p>FURNITURE SHOPPING</p>
 									
 								</div>	
 							</div>
@@ -36,8 +36,8 @@
 							<div class="container">
 								<div class="agileits-banner-info">
 								    
-									<h3>ADMIN </h3>
-									 <p>SP FURNITURE</p>
+									<h3>ADMIN DASHBOARD </h3>
+									 <p>FURNITURE SHOPPING</p>
 									
 								</div>
 								
@@ -49,8 +49,8 @@
 							<div class="container">
 								<div class="agileits-banner-info">
 								 
-									<h3> ADMIN  </h3>
-									 <p>SP FURNITURE</p>
+									<h3>ADMIN DASHBOARD </h3>
+									 <p>FURNITURE SHOPPING</p>
 									
 								</div>
 								
@@ -63,7 +63,7 @@
 </div><br />
 <!-- //banner -->
 
-furniture
+furniture Management System
 
 
 </asp:Content>

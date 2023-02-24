@@ -12,8 +12,8 @@
 							<div class="container">
 								<div class="agileits-banner-info">
 								
-									<h3> YOUR WELCOME </h3>
-									 <p> TO SP FURNITURE</p>
+									<h3> YOU ARE WELCOME</h3>
+									 <h3>In Our Furniture Shop</h3>
 									
 								</div>	
 							</div>
@@ -24,8 +24,8 @@
 						<div class="container">
 								<div class="agileits-banner-info">
 								 
-									<h3> YOUR WELCOME </h3>
-									 <p>TO SP FURNITURE</p>
+									<h3> YOU ARE WELCOME</h3>
+									 <h3>In Our Furniture Shop</h3>
 									
 								</div>	
 							</div>
@@ -36,8 +36,8 @@
 							<div class="container">
 								<div class="agileits-banner-info">
 								    
-									<h3> YOUR WELCOME</h3>
-									 <p>TO SP FURNITURE</p>
+									<h3> YOU ARE WELCOME</h3>
+									<h3>In Our Furniture Shop</h3>
 									
 								</div>
 								
@@ -49,8 +49,8 @@
 							<div class="container">
 								<div class="agileits-banner-info">
 								 
-									<h3> YOUR WELCOME </h3>
-									 <p>TO SP FURNITURE</p>
+									<h3> YOU ARE WELCOME</h3>
+									 <h3>In Our Furniture Shop</h3>
 									
 								</div>
 								
@@ -63,7 +63,7 @@
 </div>
 <!-- //banner -->
 
-welcome to SP furniture
+Welcome to our Furniture Shop
 
 
 </asp:Content>

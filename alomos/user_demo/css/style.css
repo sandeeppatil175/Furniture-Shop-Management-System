@@ -13,13 +13,12 @@ body{
 h1,h2,h3,h4,h5,h6{
 	margin:0;	
 	font-family: 'Montserrat', sans-serif;
-    color : red;
+    color : black;
 }	
 p{
 	margin:0;
 }
 ul{
-	margin:0;
 	padding:0;
 }
 p,ul,ol{
@@ -1267,7 +1266,7 @@ h3.agileits-icons-title {
 .icon-box i {
     margin-right: 10px !important;
     font-size: 20px !important;
-    color: #282a2b !important;
+    color: #red !important;
 }
 .bs-glyphicons li {
     float: left;

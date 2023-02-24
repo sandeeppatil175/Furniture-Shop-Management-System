@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>SP Furniture</title>
+    <title>Furniture Shop Management System</title>
     
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 <%--<meta charset="UTF-8">--%>
@@ -31,7 +31,7 @@ Smart phone Compatible web template, free webdesigns for Nokia, Samsung, LG, Son
 	<div class="header">
 	    <div class="container">
 			<div class="header-left">
-			    <img src="../img1/Capture.png" height="100px" width="150px" />			
+			    <img src="../img1/Capture.PNG" height="100px" width="150px" />			
 				<div class="clearfix"> </div>
 			</div>
 		</div>	
@@ -43,7 +43,7 @@ Smart phone Compatible web template, free webdesigns for Nokia, Samsung, LG, Son
 			
 				<div class="navbar-header navbar-left">
 					
-					<h1><a class="navbar-brand" href="#"> SP Furniture </a></h1>
+					<h1><a class="navbar-brand" href="#"> Furniture Shop Management System </a></h1>
 				
 				</div>
 				
@@ -114,7 +114,9 @@ Smart phone Compatible web template, free webdesigns for Nokia, Samsung, LG, Son
 
 <div class="copy-right wow fadeInLeft animated" data-wow-delay=".5s">
 	<div class="container">
-			<p> &copy; 2023 SP Furniture .  | Design by  <a >Sandeep</a></p>
+			<p> &copy; 2023 Furniture Shop Management System.  | Design by  <a >Sandeep S. , Baliram M. , 
+				Prem K. , Pratap G.
+			                                                                </a></p>
 	</div>
 </div>
 <!-- //footer -->

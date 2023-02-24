@@ -12,7 +12,7 @@
         style="width: 30%; height: 300px; background-color: #C0C0C0; font-size: large; font-weight: bold;">
         <tr>
             <td colspan="2" style="height: 100px">
-            <h1 align="center" style="background-color: #000000; color: #FFFFFF"> Change Password</h1>
+            <h1 align="center" style="background-color: #000000; color: #FFFFFF"> Send Your Feedback</h1>
             </td>
         </tr>
         

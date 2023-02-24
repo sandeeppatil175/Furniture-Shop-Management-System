@@ -55,8 +55,8 @@
             <td  align="center">
                 <asp:RadioButtonList ID="Dropdownlist_signup_gender" runat="server">
                 
-                <asp:ListItem Text="male" Value="0">male</asp:ListItem>
-                <asp:ListItem Text="female" Value="1">female</asp:ListItem>
+                <asp:ListItem Text="male" Value="Male">male</asp:ListItem>
+                <asp:ListItem Text="female" Value="Male">female</asp:ListItem>
                 </asp:RadioButtonList>
                 
             </td>

@@ -50,7 +50,7 @@
 				</div>
 				
 				<div class="col-md-3 gallery-grid gallery1">
-					<a href="../img1/bed1.png" class="swipebox"><img src="../img1/bed1.png"  class="img-responsive" alt="/"> </a>
+					<a href="../img1/bed1.png" class="swipebox"><img src="../img1/bed1.jpg"  class="img-responsive" alt="/"> </a>
 				</div>
 				
 				<div class="col-md-3 gallery-grid gallery1">
